@@ -1,0 +1,16 @@
+{
+    "6940436d-18cc-4d55-9998-6aefb4bb8f87":{
+        "id":"6940436d-18cc-4d55-9998-6aefb4bb8f87",
+        "name":"teleporter",
+        "price":9999999,
+        "quantity":2,
+        "image":"image_url.png"
+    },
+    "b9d5d73c-3d8b-46f3-9706-b95fc2ed5618":{
+        "id":"b9d5d73c-3d8b-46f3-9706-b95fc2ed5618",
+        "name":"magical wand",
+        "price":32352524652646,
+        "quantity":5,
+        "image":"image_url.png"    
+    }
+}
